@@ -3,10 +3,10 @@
 ### What can be done
 ```
 # from
-https://www.alfredapp.com/
+https://www.yahoo.co.jp
 
 # to
-[[https://www.alfredapp.com/][Alfred - Productivity App for macOS]]
+[[https://www.yahoo.co.jp][Yahoo! JAPAN]]
 ```
 
 ### memo
